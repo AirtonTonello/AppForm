@@ -1,0 +1,130 @@
+Consulta Alarmes 25/03/2019 00:33:37
+Iniciando... 25/03/2019 00:35:56
+Consulta Alarmes 25/03/2019 00:35:59
+Editado Alarme com Sucesso 25/03/2019 00:36:17
+Consulta Alarmes 25/03/2019 00:36:17
+Consulta Alarmes Por Equipamento 25/03/2019 00:36:29
+Consulta Alarmes 25/03/2019 00:36:31
+Inserido Novo Alarme com Sucesso 25/03/2019 00:36:38
+Consulta Alarmes 25/03/2019 00:36:38
+Iniciando... 25/03/2019 00:41:32
+Consulta Tipos de Equipamentos 25/03/2019 00:41:39
+Consulta Alarmes Ativos 25/03/2019 00:41:39
+Consulta Equipamentos 25/03/2019 00:41:39
+Inserido Novo Equipamento com Sucesso 25/03/2019 00:41:51
+Consulta Equipamentos 25/03/2019 00:41:51
+Excluído Equipamento com Sucesso 25/03/2019 00:42:03
+Consulta Equipamentos 25/03/2019 00:42:03
+Consulta Alarmes Por Equipamento 25/03/2019 00:42:17
+Consulta Alarmes Mais Utilizados 25/03/2019 00:42:28
+Consulta Alarmes Mais Utilizados 25/03/2019 00:42:36
+Consulta Tipos de Alarmes 25/03/2019 00:43:17
+Consulta Alarmes 25/03/2019 00:43:17
+Inserido Novo Alarme com Sucesso 25/03/2019 00:43:28
+Consulta Alarmes 25/03/2019 00:43:28
+Consulta Alarmes Por Equipamento 25/03/2019 00:43:32
+Consulta Tipos de Alarmes 25/03/2019 00:43:45
+Consulta Alarmes 25/03/2019 00:43:45
+Consulta Tipos de Equipamentos 25/03/2019 00:43:54
+Consulta Alarmes Ativos 25/03/2019 00:43:54
+Consulta Equipamentos 25/03/2019 00:43:54
+Iniciando... 25/03/2019 00:44:46
+Consulta Tipos de Alarmes 25/03/2019 00:44:48
+Consulta Alarmes 25/03/2019 00:44:48
+Consulta Tipos de Equipamentos 25/03/2019 00:44:52
+Consulta Alarmes Ativos 25/03/2019 00:44:52
+Consulta Equipamentos 25/03/2019 00:44:52
+Iniciando... 25/03/2019 00:51:14
+Consulta Alarmes Por Equipamento 25/03/2019 00:51:16
+Consulta Alarmes Mais Utilizados 25/03/2019 00:51:38
+Consulta Alarmes Mais Utilizados 25/03/2019 00:51:44
+Iniciando... 25/03/2019 01:15:29
+Consulta Tipos de Alarmes 25/03/2019 01:15:31
+Consulta Alarmes 25/03/2019 01:15:31
+Iniciando... 25/03/2019 01:23:33
+Consulta Tipos de Alarmes 25/03/2019 01:23:35
+Consulta Alarmes 25/03/2019 01:23:35
+Excluído Alarme com Sucesso 25/03/2019 01:23:40
+Consulta Alarmes 25/03/2019 01:23:40
+Iniciando... 25/03/2019 01:24:12
+Consulta Tipos de Alarmes 25/03/2019 01:24:15
+Consulta Alarmes 25/03/2019 01:24:15
+Excluído Alarme com Sucesso 25/03/2019 01:24:20
+Consulta Alarmes 25/03/2019 01:24:20
+Iniciando... 25/03/2019 01:26:31
+Consulta Tipos de Alarmes 25/03/2019 01:26:33
+Consulta Alarmes 25/03/2019 01:26:33
+Editado Alarme com Sucesso 25/03/2019 01:26:37
+Consulta Alarmes 25/03/2019 01:26:37
+Iniciando... 25/03/2019 01:29:33
+Consulta Tipos de Alarmes 25/03/2019 01:29:35
+Consulta Alarmes 25/03/2019 01:29:35
+Editado Alarme com Sucesso 25/03/2019 01:29:39
+Consulta Alarmes 25/03/2019 01:29:39
+Alterado Alarme para Urgente, enviado email 25/03/2019 01:29:47
+Editado Alarme com Sucesso 25/03/2019 01:29:47
+Consulta Alarmes 25/03/2019 01:29:47
+Iniciando... 25/03/2019 01:37:21
+Consulta Tipos de Alarmes 25/03/2019 01:37:24
+Consulta Alarmes 25/03/2019 01:37:24
+Falha ao enviar e-mail: O servidor SMTP requer uma conexão segura ou o cliente não foi autenticado. A resposta do servidor foi: 5.5.1 Authentication Required. Learn more at 25/03/2019 01:37:32
+Alterado Alarme para Urgente, enviado email 25/03/2019 01:37:32
+Editado Alarme com Sucesso 25/03/2019 01:37:32
+Consulta Alarmes 25/03/2019 01:37:32
+Iniciando... 25/03/2019 01:38:56
+Consulta Tipos de Alarmes 25/03/2019 01:39:01
+Consulta Alarmes 25/03/2019 01:39:01
+Editado Alarme com Sucesso 25/03/2019 01:39:07
+Consulta Alarmes 25/03/2019 01:39:07
+Falha ao enviar e-mail: O servidor SMTP requer uma conexão segura ou o cliente não foi autenticado. A resposta do servidor foi: 5.5.1 Authentication Required. Learn more at 25/03/2019 01:39:14
+Alterado Alarme para Urgente, enviado email 25/03/2019 01:39:14
+Editado Alarme com Sucesso 25/03/2019 01:39:14
+Consulta Alarmes 25/03/2019 01:39:14
+Iniciando... 25/03/2019 01:40:20
+Consulta Tipos de Alarmes 25/03/2019 01:40:23
+Consulta Alarmes 25/03/2019 01:40:23
+Editado Alarme com Sucesso 25/03/2019 01:40:30
+Consulta Alarmes 25/03/2019 01:40:30
+Alterado Alarme para Urgente, enviado email 25/03/2019 01:40:36
+Editado Alarme com Sucesso 25/03/2019 01:40:36
+Consulta Alarmes 25/03/2019 01:40:36
+Iniciando... 25/03/2019 01:44:09
+Encerrando... 25/03/2019 01:44:11
+Iniciando... 25/03/2019 08:39:08
+Consulta Tipos de Alarmes 25/03/2019 08:39:19
+Consulta Alarmes 25/03/2019 08:39:20
+Alterado Alarme para Urgente, enviado email 25/03/2019 08:39:46
+Editado Alarme com Sucesso 25/03/2019 08:39:46
+Consulta Alarmes 25/03/2019 08:39:46
+Consulta Tipos de Alarmes 25/03/2019 08:40:10
+Consulta Alarmes 25/03/2019 08:40:10
+Consulta Tipos de Equipamentos 25/03/2019 08:40:12
+Consulta Alarmes Ativos 25/03/2019 08:40:12
+Consulta Equipamentos 25/03/2019 08:40:12
+Consulta Alarmes Por Equipamento 25/03/2019 08:40:20
+Consulta Alarmes Mais Utilizados 25/03/2019 08:40:34
+Encerrando... 25/03/2019 08:40:58
+Iniciando... 25/03/2019 08:43:30
+Encerrando... 25/03/2019 08:43:31
+Iniciando... 25/03/2019 08:43:39
+Consulta Tipos de Alarmes 25/03/2019 08:43:42
+Consulta Alarmes 25/03/2019 08:43:42
+Consulta Alarmes Por Equipamento 25/03/2019 08:43:45
+Consulta Tipos de Alarmes 25/03/2019 08:44:00
+Consulta Alarmes 25/03/2019 08:44:00
+Consulta Tipos de Equipamentos 25/03/2019 08:44:33
+Consulta Alarmes Ativos 25/03/2019 08:44:33
+Consulta Equipamentos 25/03/2019 08:44:33
+Consulta Tipos de Alarmes 25/03/2019 08:44:41
+Consulta Alarmes 25/03/2019 08:44:41
+Encerrando... 25/03/2019 08:44:47
+Iniciando... 25/03/2019 08:46:06
+Consulta Alarmes Por Equipamento 25/03/2019 08:46:08
+Consulta Tipos de Alarmes 25/03/2019 08:46:10
+Consulta Alarmes 25/03/2019 08:46:10
+Iniciando... 25/03/2019 08:49:39
+Consulta Tipos de Alarmes 25/03/2019 08:49:41
+Consulta Alarmes 25/03/2019 08:49:41
+Consulta Alarmes Por Equipamento 25/03/2019 08:50:01
+Consulta Alarmes Mais Utilizados 25/03/2019 08:50:32
+Encerrando... 25/03/2019 08:50:35

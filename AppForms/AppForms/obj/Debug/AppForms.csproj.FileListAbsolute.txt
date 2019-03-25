@@ -1,0 +1,14 @@
+C:\Users\Airton\Documents\AppForms\AppForms\bin\Debug\AppForms.exe.config
+C:\Users\Airton\Documents\AppForms\AppForms\bin\Debug\AppForms.exe
+C:\Users\Airton\Documents\AppForms\AppForms\bin\Debug\AppForms.pdb
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.csprojAssemblyReference.cache
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.FormPrincipal.resources
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.Properties.Resources.resources
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.csproj.GenerateResource.cache
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.csproj.CoreCompileInputs.cache
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.exe
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.pdb
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.FormEquipamentos.resources
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.View.FormAlarmes.resources
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.View.FormGerenciamento.resources
+C:\Users\Airton\Documents\AppForms\AppForms\obj\Debug\AppForms.View.FormMaisUtilizados.resources
